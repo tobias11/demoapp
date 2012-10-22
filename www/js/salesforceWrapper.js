@@ -1,8 +1,7 @@
-
 function SalesforceWrapper() {
     /* AUTHENTICATION PARAMETERS */
     this.loginUrl = 'https://login.salesforce.com/';
-    this.clientId = 'YOUR_KEY_HERE';
+    this.clientId = '3MVG98XJQQAccJQeVzEzaobeVohiVHoKeZ4QEzphPyxF7VSWLGZLC7JJ4ilh6RHb9SJqxSBq8QZ5f7P2StMhQ';
     this.redirectUri = 'https://login.salesforce.com/services/oauth2/success';
     
     /* CLASS VARIABLES */
